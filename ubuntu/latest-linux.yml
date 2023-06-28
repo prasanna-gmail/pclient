@@ -1,0 +1,9 @@
+version: 23.6.28
+files:
+  - url: Tata_ClassEdge_Client.AppImage
+    sha512: Tm8HXQawncRcveWxK2lEA5bnkq0IyuVGfrbdvb8er0yLXtQil6+uNtCk6KRarRF1fWkZ0z8/tvwVYav2JX/4yw==
+    size: 106291689
+    blockMapSize: 111101
+path: Tata_ClassEdge_Client.AppImage
+sha512: Tm8HXQawncRcveWxK2lEA5bnkq0IyuVGfrbdvb8er0yLXtQil6+uNtCk6KRarRF1fWkZ0z8/tvwVYav2JX/4yw==
+releaseDate: '2023-06-28T12:46:55.184Z'
